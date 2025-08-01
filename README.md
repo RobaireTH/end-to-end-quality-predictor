@@ -1,5 +1,3 @@
-Of course. Here is a README file for your project based on the conversation history and the provided code.
-
 # ZenML Wine Quality Prediction Pipeline
 
 This project demonstrates a complete, end-to-end machine learning pipeline built with [ZenML](https://zenml.io/). The pipeline ingests wine quality data, preprocesses it, trains a model (supporting Random Forest, SVC, or Linear Regression), and evaluates its performance.
